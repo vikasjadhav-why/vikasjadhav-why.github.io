@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About me
+subtitle: Hello!
 ---
 
-Hello! My name is Vikas Jadhav.
+My name is Vikas Jadhav.
 
 As a kid I loved exploring and mapping the night sky through stargazing, now I do it with Gravitational-waves. 
 
