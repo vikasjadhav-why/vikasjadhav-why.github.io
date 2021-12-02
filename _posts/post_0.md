@@ -1,6 +1,7 @@
 ---
 layout: post
-title: And then there were posts....
+title: First post
+subtitle: And then there were posts....
 ---
 
-test post
+This is a test post. Will it show up?
