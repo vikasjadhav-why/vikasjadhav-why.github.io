@@ -1,6 +1,6 @@
 ---
 layout: post
-title: post[0]
+title: and then there were posts
 ---
 
 test post
