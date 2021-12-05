@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hello!
-cover-img: "assets/img/20211014_181625.jpg"
+background-img: "assets/img/20211014_181625.jpg"
 ---
 
 My name is Vikas Jadhav.
