@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post
-subtitle: And then there were posts....
+title: Stay Tuned
+subtitle: Will update site shortly
 ---
 
-This is hopefully my first post?
+Have been very busy lately. 
