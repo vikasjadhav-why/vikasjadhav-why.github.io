@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Hello!
-background-img: "assets/img/20211014_181625.jpg"
+title: Hello! 
 ---
 
 My name is Vikas Jadhav.
