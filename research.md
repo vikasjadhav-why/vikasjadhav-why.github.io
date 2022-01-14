@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Research
 subtitle: I share a few things about my work here
 ---
