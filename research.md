@@ -10,4 +10,5 @@ title: Research
 * The simplest way one could do this is to see if the GW that we detect behaves as GR predicts it should. Any significant deviations from any of the predictions would suggest that GR needs corrections at those limits!
 
 -[Galactic Dynamics](Research/GD.md)
+
 -[GW Astronomy](Research/GW.md)
